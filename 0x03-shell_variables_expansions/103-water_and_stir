@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((water#10 + stir#10)) | tr "0123456789" "bestchol"
